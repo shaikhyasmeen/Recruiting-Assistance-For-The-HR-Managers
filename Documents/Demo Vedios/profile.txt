@@ -1,0 +1,23 @@
+Name of the Students:Shaikh yasmeen
+Learning Track      :Developer
+Project Name        :Recruiting Assistance For The HR Managers_(dev)
+Trailhead Profile   :https://www.salesforce.com/trailblazer/yasmeenshaikh
+Developer Org Username:s.yasmeenmecs@gdcproject.com
+Developer Org Password:Gayatri@123
+Position:Team Leader
+
+Name of the Students:itham vandana
+Learning Track      :Developer
+Project Name        :Recruiting Assistance For The HR Managers_(dev)
+Trailhead Profile   :https://www.salesforce.com/trailblazer/vandanaitham
+Developer Org Username:I.vandanamecs@gdcproject.com
+Developer Org Password:Gayatri@123
+Position:Team Member
+
+Name of the Students:lakkur sowmyalakshmi
+Learning Track      :Developer
+Project Name        :Recruiting Assistance For The HR Managers_(dev)
+Trailhead Profile   :https://www.salesforce.com/trailblazer/sowmyalakshmilakkur
+Developer Org Username:L.sowmyalakshmimecs@gdcproject.com
+Developer Org Password:Gayatri@123
+Position:Team Member
